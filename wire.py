@@ -51,7 +51,7 @@ print('Composing Email.....')
 SERVER = 'smtp.gmail.com' #your smtp server
 PORT = 587 # Your port number, for gmail it is 587
 FROM = 'vasanram220@gmail.com'
-TO = 'vasanram220@gmail.com,vamshi998shivam@gmail.com,pujasinha719@gmail.com,princeraja777@gmail.com,dileepcs07@gmail.com'
+TO = 'vasanram220@gmail.com,vamshi998shivam@gmail.com,pujasinha719@gmail.com,princeraja777@gmail.com,dileepcs07@gmail.com,sridharockzz@gmail.com'
 PASS = '102102102'
 
 msg = MIMEMultipart()
